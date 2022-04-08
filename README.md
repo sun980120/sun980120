@@ -1,3 +1,5 @@
+<!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>&nbsp; -->
+
 - 👋 Hi, I’m Woosung Hong
 - 👀 I’m interested in Back-End & Front-End
 - 🌱 I’m currently learning Back-End : Node.js, MySQL, MongoDB & Front-End : React, React-HooKs, HTML, CSS, JavaScript
