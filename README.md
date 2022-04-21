@@ -7,7 +7,6 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/woosung_o3o)](https://www.instagram.com/woosung_o3o)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woosung9801@gmail.com)](mailto:woosung9801@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=velog&logoColor=white&link=mailto:https://woosung9801.tistory.com/)](https://woosung9801.tistory.com/)
-
 <hr/>
 
 | :book: Studying :book: | :computer: Tools :computer: |
@@ -23,7 +22,7 @@
 </div>
 <div>
 <p>:computer: Tools :computer:</p>
-<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>
+<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>
   <hr/>
 </div> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun980120)](https://github.com/sun980120/github-readme-stats) -->
