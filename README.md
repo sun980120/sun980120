@@ -7,6 +7,10 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/woosung_o3o)](https://www.instagram.com/woosung_o3o)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woosung9801@gmail.com)](mailto:woosung9801@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=velog&logoColor=white&link=mailto:https://woosung9801.tistory.com/)](https://woosung9801.tistory.com/)
+&nbsp;
+  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun980120)](https://solved.ac/sun980120)
+ &nbsp; <img src="http://mazandi.herokuapp.com/api?handle=sun980120&theme=warm"/>
 <hr/>
 
 | :book: Studying :book: | :computer: Tools :computer: |
@@ -29,8 +33,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun980120&show_icons=true) -->
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun980120)](https://solved.ac/sun980120) &nbsp; <img src="http://mazandi.herokuapp.com/api?handle=sun980120&theme=warm"/>
 
 </div>
 
