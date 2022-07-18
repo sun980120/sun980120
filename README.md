@@ -5,8 +5,9 @@
 
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/woosung9801)](https://www.facebook.com/woosung9801)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/woosung_o3o)](https://www.instagram.com/woosung_o3o)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white&link=https://woosung9801.notion.site)](https://woosung9801.notion.site/)
+[![Blog Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=velog&logoColor=white&link=https://woosung9801.tistory.com/)](https://woosung9801.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:woosung9801@gmail.com)](mailto:woosung9801@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=velog&logoColor=white&link=mailto:https://woosung9801.tistory.com/)](https://woosung9801.tistory.com/)
 &nbsp;
   
 ### 🍀 Skill 🍀
@@ -16,7 +17,7 @@
 <a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a>
 
 ### 🛠️ Tools 🛠️
-<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/></a>
+<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&logoColor=white"/></a>
 
 ### 💡 Problem Solving 💡
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun980120)](https://solved.ac/sun980120)</br>
