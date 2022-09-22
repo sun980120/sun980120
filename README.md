@@ -19,9 +19,9 @@
 ### 🛠️ Tools 🛠️
 <a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/></a>&nbsp;<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&logoColor=white"/></a>
 
-### 💡 Problem Solving 💡
+<!-- ### 💡 Problem Solving 💡
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun980120)](https://solved.ac/sun980120)</br>
-<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
+<a href="https://woosung9801.tistory.com/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a> -->
 
 
 
