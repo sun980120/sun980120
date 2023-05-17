@@ -10,7 +10,7 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/woosung9801)](https://www.facebook.com/woosung9801)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/woosung_o3o)](https://www.instagram.com/woosung_o3o)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white&link=https://woosung9801.notion.site)](https://woosung9801.notion.site/)
-[![Blog Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=velog&logoColor=white&link=https://woosung9801.tistory.com/)](https://woosung9801.tistory.com/)
+[![Blog Badge](https://img.shields.io/badge/Tistory-FF6C37?style=flat&logo=tistory&logoColor=white&link=https://woosung9801.tistory.com/)](https://woosung9801.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:woosung9801@gmail.com)](mailto:woosung9801@gmail.com)
 &nbsp;
   
